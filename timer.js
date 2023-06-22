@@ -17,6 +17,9 @@ function alarmPlay() {
   }
 }
 
+function refresh(){
+    window.location.reload();
+}
 
 
 window.onload = () =>{
